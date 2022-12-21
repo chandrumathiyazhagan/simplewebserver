@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
